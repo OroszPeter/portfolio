@@ -5,7 +5,7 @@
     1: {
       title: 'Bibliotheca Motus Imaginibus',
       longDescription: 'Egy egyszerű és lesimult design-nal rendelkező weboldal, amely egy online adatbázis filmekről és sorozatokról.',
-      image: 'https://via.placeholder.com/800x400',
+      image: 'https://i.imgur.com/HkzLSqW.png',
       tags: ['Svelte', 'Bootstrap', 'JavaScript', 'C#'],
       features: [
         'Reszponzív design',
@@ -23,7 +23,7 @@
       title: 'Eseménykezelő',
       
       longDescription: 'Egy eseménykezeleő naptár heti bontásban.',
-      image: 'https://via.placeholder.com/800x400',
+      image: 'https://i.imgur.com/5c8RoQb.png',
       tags: ['Svelte', 'Bootstrap', 'JavaScript'],
       features: [
         'Egyszerű design',
@@ -36,7 +36,7 @@
     3: {
       title: 'Könyv kezelő alkalmazás',
       longDescription: 'Egy könyv kezelő alkalmazás, amely lehetővé teszi a könyvek kezelését.',
-      image: 'https://via.placeholder.com/800x400',
+      image: 'https://i.imgur.com/raI8hGq.png',
       tags: ['SvelteKit', 'Semantic UI', 'JavaScript'],
       features: [
         'Könyvek hozzáadása',
@@ -50,7 +50,7 @@
     4: {
       title: 'Céges eszköz-nyilvántartó program',
       longDescription: 'Egy céges eszköz-nyilvántartó program, amely lehetővé teszi a céges eszközök kezelését.',
-      image: 'https://via.placeholder.com/800x400',
+      image: 'https://i.imgur.com/GYagEOj.png',
       tags: ['SvelteKit', 'Semantic UI', 'JavaScript'],
       features: [
         'Eszközök hozzáadása',
@@ -64,7 +64,7 @@
     5: {
       title: 'Autókereskedés weboldal',
       longDescription: 'Egy autókereskedés weboldal, amely lehetővé teszi a könyvek kezelését.',
-      image: 'https://via.placeholder.com/800x400',
+      image: 'https://i.imgur.com/s5XAqFT.png',
       tags: ['HTML', 'Bootstrap', 'CSS'],
       features: [
         'Reszponzív design',
@@ -74,7 +74,7 @@
     6: {
       title: 'Játékgép',
       longDescription: 'Tipikus kaszinói játékgép.',
-      image: 'https://via.placeholder.com/800x400',
+      image: 'https://i.imgur.com/nGzFnkG.png',
       tags: ['HTML', 'Bootstrap', 'JavaScript', 'C#'],
       features: [
         'Bejelentkezés funkció',
@@ -86,7 +86,7 @@
     7: {
       title: 'Malom',
       longDescription: 'Klasszikus malom játék megvalósítása.',
-      image: 'https://via.placeholder.com/800x400',
+      image: 'https://i.imgur.com/VHr71Uq.png',
       tags: ['Vue.js', 'C#', 'JavaScript'],
       features: [
         'Online játék',
@@ -98,7 +98,7 @@
     8: {
       title: 'Tetris',
       longDescription: 'Klasszikus Tetris játék megvalósítása.',
-      image: 'https://via.placeholder.com/800x400',
+      image: 'https://i.imgur.com/tZQqeSu.png',
       tags: ['Svelte', 'CSS', 'JavaScript'],
       features: [
         'Klasszikus design',
@@ -110,7 +110,7 @@
     9: {
       title: 'Kígyó játék',
       longDescription: 'Klasszikus kígyó játék megvalósítása.',
-      image: 'https://via.placeholder.com/800x400',
+      image: 'https://i.imgur.com/WcNt4G3.png',
       tags: ['Svelte', 'CSS', 'JavaScript'],
       features: [
         'Klasszikus design',
@@ -122,7 +122,7 @@
     10: {
       title: 'Házifeladat kezelő',
       longDescription: 'Házifeladat kezelő alkalmazás. Megkönnyíti a tanárok és diákok munkáját.',
-      image: 'https://via.placeholder.com/800x400',
+      image: 'https://i.imgur.com/VuqETcp.png',
       tags: ['Svelte', 'Bootstrap', 'JavaScript', 'C#'],
       features: [
         'Házifeladat hozzáadása',
@@ -138,7 +138,7 @@
     11: {
       title: 'Doboz tologatás',
       longDescription: 'Doboz tologatás játék. Egy szint akkor van teljesítve, ha a dobozt betoljuk a célba.',
-      image: 'https://via.placeholder.com/800x400',
+      image: 'https://i.imgur.com/eI97rz0.png',
       tags: ['Svelte', 'Bootstrap', 'JavaScript'],
       features: [
         'Klasszikus design',
@@ -151,7 +151,7 @@
     12: {
       title: 'Doboz tologatás szörnyekkel',
       longDescription: 'Doboz tologatás szörnyekkel. A játékban a szörnyek folyamatosan mozognak, és a játékosnak be kell őket kerítenie a dobozok segítségével.',
-      image: 'https://via.placeholder.com/800x400',
+      image: 'https://i.imgur.com/YY0xfaJ.png',
       tags: ['Svelte', 'Bootstrap', 'JavaScript'],
       features: [
         'Klasszikus design',
@@ -165,7 +165,7 @@
     13: {
       title: 'Térképes játék',
       longDescription: 'Egy térképes játék, amely lehetővé teszi a játékosnak a Európai országok elhelyezkedését.',
-      image: 'https://via.placeholder.com/800x400',
+      image: 'https://i.imgur.com/iwuOm5n.png',
       tags: ['Svelte', 'JavaScript'],
       features: [
         'SVG Térkép',
@@ -173,6 +173,19 @@
         'Véletlenszerűen generált keresendő országok',
       ],
       link: 'https://oroszpeter.github.io/mapgame/'
+    },
+    14: {
+      title: 'Billiárd játék',
+      longDescription: 'Billiárd játék labdákkal és ütőkkel.',
+      image: 'https://i.imgur.com/xsvi6AX.png',
+      tags: ['Svelte', 'Bootstrap', 'JavaScript'],
+      features: [
+        'Labda mozgások',
+        'Különböző ütőerő',
+        'Kézben lévő fehér labda',
+        'Fizikai szabályok'
+      ],
+      link: 'https://oroszpeter.github.io/8ballpool/'
     }
   };
 

@@ -85,6 +85,20 @@
       description: 'Doboz tologatás szörnyekkel.',
       image: 'https://via.placeholder.com/300x200',
       tags: ['Svelte', 'Bootstrap', 'JavaScript']
+    },
+    {
+      id: 13,
+      title: 'Térkép játék',
+      description: 'Egyszerű keresd meg az országot a térképen.',
+      image: 'https://via.placeholder.com/300x200',
+      tags: ['Svelte', 'Bootstrap', 'JavaScript']
+    },
+    {
+      id: 14,
+      title: 'Billiárd játék',
+      description: 'Billiárd játék labdákkal és ütőkkel.',
+      image: 'https://via.placeholder.com/300x200',
+      tags: ['Svelte', 'Bootstrap', 'JavaScript']
     }
   ];
 </script>
