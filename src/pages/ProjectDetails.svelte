@@ -186,6 +186,14 @@
         'Fizikai szabályok'
       ],
       link: 'https://oroszpeter.github.io/8ballpool/'
+    },
+    15: {
+      title: 'Kő, papír, olló',
+      longDescription: 'Kő, papír, olló játék.',
+      image: 'https://i.imgur.com/PYzDbnq.png',
+      tags: ['HTML', 'Bootstrap', 'JavaScript'],
+      features: ['Egy játékos mód', 'AI ellenfél', 'Klasszikus játék', 'Animációk'],
+      link: 'https://oroszpeter.github.io/rockpaperscissors/'
     }
   };
 

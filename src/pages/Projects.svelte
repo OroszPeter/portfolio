@@ -99,6 +99,13 @@
       description: 'Billiárd játék labdákkal és ütőkkel.',
       image: 'https://via.placeholder.com/300x200',
       tags: ['Svelte', 'Bootstrap', 'JavaScript']
+    },
+    {
+      id: 15,
+      title: 'Kő, papír, olló',
+      description: 'Kő, papír, olló játék.',
+      image: 'https://via.placeholder.com/300x200',
+      tags: ['HTML', 'Bootstrap', 'JavaScript']
     }
   ];
 </script>
