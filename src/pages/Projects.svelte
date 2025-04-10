@@ -106,6 +106,13 @@
       description: 'Kő, papír, olló játék.',
       image: 'https://via.placeholder.com/300x200',
       tags: ['HTML', 'Bootstrap', 'JavaScript']
+    },
+    {
+      id: 16,
+      title: 'Space Shooter',
+      description: 'Klasszikus árkád játék.',
+      image: 'https://via.placeholder.com/300x200',
+      tags: ['HTML', 'Bootstrap', 'JavaScript']
     }
   ];
 </script>

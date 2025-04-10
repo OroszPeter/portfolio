@@ -194,6 +194,14 @@
       tags: ['HTML', 'Bootstrap', 'JavaScript'],
       features: ['Egy játékos mód', 'AI ellenfél', 'Klasszikus játék', 'Animációk'],
       link: 'https://oroszpeter.github.io/rockpaperscissors/'
+    },
+    16: {
+      title: 'Space Shooter',
+      longDescription: 'Klasszikus árkád játék.',
+      image: 'https://i.imgur.com/I3aV5W6.png',
+      tags: ['HTML', 'Bootstrap', 'JavaScript'],
+      features: ['Egy játékos mód', 'Különböző ellenfelek', 'Pontrendszer', 'Egyszerű irányítás', 'Erősítők'],
+      link: 'https://oroszpeter.github.io/spaceshooter/'
     }
   };
 
